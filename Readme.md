@@ -1,0 +1,2 @@
+
+The provided Python code utilizes the tkinter library to create a simple calculator GUI. It defines functions to handle adding symbols to the calculation, evaluating the calculation, clearing the field, and setting up the GUI elements like buttons and text display. The calculator allows users to perform basic arithmetic operations (+, -, *, /) and evaluate complex expressions. 
